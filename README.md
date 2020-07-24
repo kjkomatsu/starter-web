@@ -9,9 +9,14 @@ Git blah blah GitHub blah blah some project
 
 ## Purpose
 
+Blab blah some more purpose blah.  Getting tedious doing
+this blah blah blah
+
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Deployment stuff this blah blah blah
 
 ## How To Contribute
 
