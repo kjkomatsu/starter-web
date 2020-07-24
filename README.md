@@ -20,3 +20,6 @@ Deployment stuff this blah blah blah
 
 ## How To Contribute
 
+### Copyright
+
+2020 Git.Training
